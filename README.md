@@ -1,2 +1,2 @@
 # gh-actions-pr
-Repository containing all examples, as well as the GH Actions examples
+Repository containing all examples, as well as the GH Actions examples and many more
